@@ -1,15 +1,15 @@
 # MyIrc
 
-### Utilisation :
+### Use :
 ```
 $ make re
 $ ./server [port]
 ```
 
-### Informations sur le projet:
+### Project Informations :
 
-Création d'un serveur de chat en languague #C.
+MyIrc is a network chat server made is #C language.
 
-Suit l'ancienne norme Epitech.
+It had been coded following Epitech's standart.
 
-Plus d'informations dans MyIrc.pdf.
+More informations in MyIrc.pdf.
